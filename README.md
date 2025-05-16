@@ -105,4 +105,19 @@ Uses clear, high-contrast colors.
 
 Simple layout is easy to navigate and understand.
 
-Font sizes and spacing are appropriate for readabiility
+Font sizes and spacing are appropriate for readabiility 
+
+
+below are screenshots of the app.
+![image](https://github.com/user-attachments/assets/a38b5c56-9462-4e03-8d84-9eef442c8f7a)
+
+![image](https://github.com/user-attachments/assets/5c1820f4-968c-4e37-bd0c-247b010c9b1e)
+
+![image](https://github.com/user-attachments/assets/a6767149-0a38-4c17-bd5c-494212de1b95)
+![image](https://github.com/user-attachments/assets/4aee9f45-66cd-4db2-a80e-272899aae4fd)
+
+![image](https://github.com/user-attachments/assets/264f9c85-8a07-490e-afdc-cbbb8f87d0f2)
+
+
+
+
